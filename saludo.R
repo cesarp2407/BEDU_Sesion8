@@ -1,0 +1,2 @@
+x <- "Imprimir texto"
+x
